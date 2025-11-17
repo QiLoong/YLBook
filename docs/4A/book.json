@@ -1,0 +1,72 @@
+{
+  "bookName": "译林英语",
+  "bookLevel": "第四册上",
+  "bookCover": "cover.png",
+  "basePath": "4/",
+  "units": [
+    {
+      "title": "Cartoon Time 1",
+      "filename": "Unit 1 Cartoon Time"
+    },
+    {
+      "title": "Story Time 1",
+      "filename": "Unit 1 Story Time"
+    },
+    {
+      "title": "Cartoon Time 2",
+      "filename": "Unit 2 Cartoon Time"
+    },
+    {
+      "title": "Story Time 2",
+      "filename": "Unit 2 Story Time"
+    },
+    {
+      "title": "Cartoon Time 3",
+      "filename": "Unit 3 Cartoon Time"
+    },
+    {
+      "title": "Story Time 3",
+      "filename": "Unit 3 Story Time"
+    },
+    {
+      "title": "Cartoon Time 4",
+      "filename": "Unit 4 Cartoon Time"
+    },
+    {
+      "title": "Story Time 4",
+      "filename": "Unit 4 Story Time"
+    },
+    {
+      "title": "Cartoon Time 5",
+      "filename": "Unit 5 Cartoon Time"
+    },
+    {
+      "title": "Story Time 5",
+      "filename": "Unit 5 Story Time"
+    },
+    {
+      "title": "Cartoon Time 6",
+      "filename": "Unit 6 Cartoon Time"
+    },
+    {
+      "title": "Story Time 6",
+      "filename": "Unit 6 Story Time"
+    },
+    {
+      "title": "Cartoon Time 7",
+      "filename": "Unit 7 Cartoon Time"
+    },
+    {
+      "title": "Story Time 7",
+      "filename": "Unit 7 Story Time"
+    },
+    {
+      "title": "Cartoon Time 8",
+      "filename": "Unit 8 Cartoon Time"
+    },
+    {
+      "title": "Story Time 8",
+      "filename": "Unit 8 Story Time"
+    }
+  ]
+}
