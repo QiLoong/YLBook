@@ -2,7 +2,6 @@
   "bookName": "译林英语",
   "bookLevel": "第四册上",
   "bookCover": "cover.png",
-  "basePath": "4/",
   "units": [
     {
       "title": "Cartoon Time 1",
